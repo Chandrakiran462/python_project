@@ -180,6 +180,20 @@ DA/
 
 ---
 
+## Visualizations
+
+### Income Distribution
+
+![Income Distribution](screenshots/chart1.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](screenshots/chart2.png)
+
+### Age Distribution and Outliers
+
+![Age Boxplot](screenshots/chart3.png)
+
 ## Conclusion
 
 This project demonstrates the end-to-end EDA and data preprocessing workflow using the Adult Census Income dataset. The notebook covers essential analytical and cleaning techniques that form the foundation of data analytics and machine learning projects.
